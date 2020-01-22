@@ -1,0 +1,8 @@
+---
+sourceKafkaTopic: test_topic
+cassandraKeyspace: explore
+cassandraTable: songs
+cassandraHost: 127.0.0.1
+zkConnectionString: localhost:2181
+kafkaBrokers: localhost:9092
+topologyName: realtime-processor-topology
