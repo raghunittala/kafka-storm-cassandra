@@ -1,4 +1,4 @@
-# kafka-storm-cassandra
+# Kafka-Storm-Cassandra Integration
 Codebase that can populate a Apache kafka topic with JSON data and process them using Apache storm, do some transformations and finally store into Apache cassandra data store
 
 # Populating the source kafka topic with data.
